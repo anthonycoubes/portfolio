@@ -1,0 +1,11 @@
+Portfolio - Anthony Coubes
+
+Ouvre index.html dans ton navigateur pour voir le site.
+
+index.html  : le contenu (textes, sections, projets)
+style.css   : les couleurs (variables en haut du fichier), polices et mises en page
+script.js   : la visionneuse d'images (preuves)
+img/        : les captures. Remplace un fichier en gardant le meme nom pour changer une image.
+
+Pour mettre le site en ligne : GitHub Pages, Netlify (glisser-deposer le dossier) ou ton hebergeur.
+Les polices viennent de Google Fonts : une connexion internet est necessaire pour qu'elles s'affichent.
